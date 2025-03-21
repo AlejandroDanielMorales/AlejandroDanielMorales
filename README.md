@@ -1,5 +1,5 @@
-# Alejandro Morales
-
+Alejandro Morales
+<hr/>
 🎓 **Técnico Universitario en Programación**  
 Universidad Tecnológica Nacional, Buenos Aires, Argentina.  
 
