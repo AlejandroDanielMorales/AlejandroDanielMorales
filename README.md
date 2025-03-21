@@ -21,9 +21,9 @@ Apasionado por la tecnología y el desarrollo de software. Me motiva aprender nu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ## 📊 **Estadísticas de GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroDanielMorales&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDanielMorales&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDanielMorales&theme=dark)  
 
 ## 📫 **Contáctame**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_PERFIL_LINKEDIN)  
