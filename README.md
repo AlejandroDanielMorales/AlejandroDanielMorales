@@ -2,13 +2,21 @@
 
 ![Banner](https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY" alt="Profile Picture" width="100" height="100" style="border-radius: 50%; object-fit: cover; margin-right: 15px;">
-  <h1>💻 Alejandro Morales</h1>
-</div>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <!-- Imagen de perfil -->
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY" 
+       alt="Profile Picture" width="120" height="120" 
+       style="border-radius: 50%; object-fit: cover; margin-right: 20px;">
 
-🎓 **Técnico Universitario en Programación**  
-Universidad Tecnológica Nacional, Buenos Aires, Argentina.   
+  <!-- Contenedor de Título y Subtítulo -->
+  <div>
+    <h1>💻 Alejandro Morales</h1>
+    <div>
+      <h2>Técnico Universitario en Programación</h2>
+      <p>Universidad Tecnológica Nacional, Buenos Aires, Argentina.</p>
+    </div>
+  </div>
+</div> 
 
 ## 🚀 **Sobre Mí**  
 Apasionado por la tecnología y el desarrollo de software. Me motiva aprender nuevas tecnologías y mejorar mis habilidades día a día. Actualmente, estoy ampliando mis conocimientos en desarrollo **Full Stack** con **React.js** y **Node.js**.
