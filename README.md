@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg" width="100%" alt="Banner">
 </p>
 
@@ -53,10 +53,9 @@ Actualmente me estoy especializando en el desarrollo **Full Stack** con un fuert
 <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDanielMorales&layout=compact&theme=dark">
 <br>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDanielMorales&theme=dark">
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDanielMorales&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDanielMorales&theme=dark)
+
 
 
 
