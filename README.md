@@ -50,10 +50,11 @@ Actualmente me estoy especializando en el desarrollo **Full Stack** con un fuert
 ## 📊 **Estadísticas de GitHub**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlejandroDanielMorales&show_icons=true&theme=dark">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDanielMorales&layout=compact&theme=dark">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDanielMorales&theme=dark">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDanielMorales&layout=compact&theme=dark">
+<br>
+<img src="https://github-readme-streak-stats.vercel.app/?user=AlejandroDanielMorales&theme=dark">
+
 </p>
 
 ---
