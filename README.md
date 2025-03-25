@@ -41,6 +41,7 @@ Apasionado por la tecnología y el desarrollo de software. Me motiva aprender nu
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDanielMorales&theme=dark">
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroDanielMorales&theme=dark)
 
 ---
 
