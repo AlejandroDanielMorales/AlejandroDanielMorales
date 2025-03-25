@@ -1,6 +1,6 @@
 # 💻 Alejandro Morales
 
-![Banner]([https://via.placeholder.com/1200x400?text=Bienvenido+a+mi+GitHub](https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg)  
+![Banner]([https://via.placeholder.com/1200x400?text=Bienvenido+a+mi+GitHub](https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg)) 
 
 <img src="URL_DE_TU_FOTO" alt="Foto de Alejandro Morales" width="150" height="150" align="right">
 
