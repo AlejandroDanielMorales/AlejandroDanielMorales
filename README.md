@@ -2,7 +2,7 @@
 
 ![Banner](https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg)
 
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex;flex-direction:column">
   <!-- Imagen de perfil -->
   <img src="https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY" 
        alt="Profile Picture" width="120" height="120" 
