@@ -1,7 +1,8 @@
 # 💻 Alejandro Morales
 
 ![Banner](https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg)
-![ProfilePicture](https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY)
+
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
 
 🎓 **Técnico Universitario en Programación**  
 Universidad Tecnológica Nacional, Buenos Aires, Argentina.  
@@ -27,4 +28,4 @@ Apasionado por la tecnología y el desarrollo de software. Me motiva aprender nu
 ## 📫 **Contáctame**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_PERFIL_LINKEDIN)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TUCORREO@ejemplo.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TUCORREO@ejemplo.com)
