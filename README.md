@@ -1,8 +1,7 @@
 # 💻 Alejandro Morales
 
 ![Banner](https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg)
-
-<img src="(https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY)" alt="Foto de Alejandro Morales" width="150" height="150" align="right">
+![ProfilePicture]([https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg](https://media.licdn.com/dms/image/v2/D4D03AQGzhhuUHb9kiw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718430029018?e=1748476800&v=beta&t=LmWB0WfML8xtMjILBQ3aN6wGzU8iUtuJcXa_1s7XEyY))
 
 🎓 **Técnico Universitario en Programación**  
 Universidad Tecnológica Nacional, Buenos Aires, Argentina.  
