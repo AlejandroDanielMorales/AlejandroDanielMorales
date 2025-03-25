@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/000/664/493/original/abstract-banner-design-vector.jpg" width="100%" alt="Banner">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGkquGVQfzzSQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705679014419?e=1748476800&v=beta&t=NtgJBXK-zy6sEuLhzDJLVSTkD7wKVTlcsqy_13ug0QY" width="100%" alt="Banner">
 </p>
 
 <p align="center">
